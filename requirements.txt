@@ -1,12 +1,12 @@
-streamlit
 pandas
-numpy
 geopandas
+openpyxl
+streamlit
 folium
 streamlit-folium
-minisom
-scikit-learn
 plotly
-pyproj
+difflib
 shapely
 fiona
+pyproj
+rtree
